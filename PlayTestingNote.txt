@@ -1,0 +1,12 @@
+Looked at Zach's game
+
+Night at the Museum 
+- looks super cool
+- need ox collisers on things to make sure you don't fall through the floor
+goal to add light sources and interactable exhibits
+finding the museum thing and making it work
+ 
+my game
+- only have the room right now
+- need to figure out how to get out of the doorframe 
+- severance idea
